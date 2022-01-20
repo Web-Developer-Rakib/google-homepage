@@ -35,6 +35,9 @@ body {
   height: auto;
   border: none;
 }
+.searchinput > input:focus {
+  outline: none;
+}
 .Simg {
   height: 32px;
   width: 32px;
